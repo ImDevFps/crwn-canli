@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2411ee59-2b53-4f3a-a833-792de5089f77" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
-    </list>
+    <list default="true" id="2411ee59-2b53-4f3a-a833-792de5089f77" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +49,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -111,7 +108,7 @@
       <workItem from="1629716304002" duration="72000" />
       <workItem from="1629716411174" duration="451000" />
       <workItem from="1629717342102" duration="103000" />
-      <workItem from="1629717453321" duration="482000" />
+      <workItem from="1629717453321" duration="819000" />
     </task>
     <servers />
   </component>
@@ -155,9 +152,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="963" y="259" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1629717889832" />
-    <state x="684" y="163" key="SettingsEditor" timestamp="1629717935122">
+    <state x="684" y="163" key="SettingsEditor" timestamp="1629717983414">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="684" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1629717935122" />
+    <state x="684" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1629717983414" />
   </component>
 </project>
